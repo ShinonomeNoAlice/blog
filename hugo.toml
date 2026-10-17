@@ -1,5 +1,5 @@
 baseURL = 'https://shinonomenoalice.github.io/blog/'
-languageCode = 'en-gb'
+locale = 'en-GB'
 title = 'Alice // Blog'
 theme = 'terminal'
 
